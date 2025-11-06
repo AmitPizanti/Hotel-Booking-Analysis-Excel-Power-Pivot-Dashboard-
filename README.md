@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Analysis — Excel & Power Pivot Dashboard  
+# 🏨 Hotel Booking Analysis - Excel & Power Pivot Dashboard  
 
 ### 📋 Project Overview  
 This project analyzes over **119,000 hotel booking records (2015–2017)** sourced from the  
